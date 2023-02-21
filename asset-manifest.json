@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.8c03a087.css",
+    "main.js": "/react-gh-pages/static/js/main.bb587787.js",
+    "static/media/e45teryfegfg.PNG": "/react-gh-pages/static/media/e45teryfegfg.b3ee036b22a4608f3acd.PNG",
+    "static/media/1061165_journey_icon.svg": "/react-gh-pages/static/media/1061165_journey_icon.c7ddc5b68619e1952d851e145efb8081.svg",
+    "static/media/1076695_airport_baggage_journey_luggage_suitcase_icon.svg": "/react-gh-pages/static/media/1076695_airport_baggage_journey_luggage_suitcase_icon.1eef7744456f63d4e018e2d210d99628.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.8c03a087.css.map": "/react-gh-pages/static/css/main.8c03a087.css.map",
+    "main.bb587787.js.map": "/react-gh-pages/static/js/main.bb587787.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c03a087.css",
+    "static/js/main.bb587787.js"
+  ]
+}
