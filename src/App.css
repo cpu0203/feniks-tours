@@ -64,18 +64,19 @@
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
+  min-height: 26rem;
 }
 
 .tour_card {
   flex: 1 1 22%;
   max-width: 24%;
-  background: url("img/e45teryfegfg.PNG") center;
-  background-size: cover;
+  /* background: url("img/e45teryfegfg.PNG") center; */
+  /* background-size: cover; */
   height: 170px;
   border-radius: 5px;
-  margin-bottom: 2.5rem;
+  margin-bottom: 3.5rem;
   position: relative;
-  opacity: .8;
+  opacity: .75;
   transition: all .3s;
   cursor: pointer;
 }
